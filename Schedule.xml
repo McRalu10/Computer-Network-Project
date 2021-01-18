@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <trains>
+        <train>
+            <train_ID>IR1</train_ID>
+            <from>Iasi</from>
+            <to>Bucharest</to>
+            <departure_time>06:26</departure_time>
+            <arrival_time>12:59</arrival_time>
+            <delay_minutes>0</delay_minutes>
+            <eta>12:59</eta>
+        </train>
+
+        <train>
+            <train_ID>IR2</train_ID>
+            <from>Iasi</from>
+            <to>Cluj-Napoca</to>
+            <departure_time>07:33</departure_time>
+            <arrival_time>16:47</arrival_time>
+            <delay_minutes>0</delay_minutes>
+            <eta>16:47</eta>
+        </train>
+
+        <train>
+            <train_ID>IR3</train_ID>
+            <from>Iasi</from>
+            <to>Bacau</to>
+            <departure_time>12:44</departure_time>
+            <arrival_time>15:47</arrival_time>
+            <delay_minutes>0</delay_minutes>
+            <eta>15:47</eta>
+        </train>
+
+        <train>
+            <train_ID>IR4</train_ID>
+            <from>Roman</from>
+            <to>Iasi</to>
+            <departure_time>14:21</departure_time>
+            <arrival_time>15:59</arrival_time>
+            <delay_minutes>0</delay_minutes>
+            <eta>15:59</eta>
+        </train>
+
+        <train>
+            <train_ID>IR5</train_ID>
+            <from>Galati</from>
+            <to>Iasi</to>
+            <departure_time>15:25</departure_time>
+            <arrival_time>19:33</arrival_time>
+            <delay_minutes>0</delay_minutes>
+            <eta>19:33</eta>
+        </train>
+
+        <train>
+            <train_ID>RE1</train_ID>
+            <from>Iasi</from>
+            <to>Vaslui</to>
+            <departure_time>16:01</departure_time>
+            <arrival_time>18:45</arrival_time>
+            <delay_minutes>0</delay_minutes>
+            <eta>18:45</eta>
+        </train>
+
+        <train>
+            <train_ID>RE2</train_ID>
+            <from>Vaslui</from>
+            <to>Iasi</to>
+            <departure_time>19:05</departure_time>
+            <arrival_time>20:09</arrival_time>
+            <delay_minutes>0</delay_minutes>
+            <eta>20:09</eta>
+        </train>
+
+        <train>
+            <train_ID>RE3</train_ID>
+            <from>Iasi</from>
+            <to>Roman</to>
+            <departure_time>20:26</departure_time>
+            <arrival_time>22:13</arrival_time>
+            <delay_minutes>0</delay_minutes>
+            <eta>22:13</eta>
+        </train>
+    </trains>
